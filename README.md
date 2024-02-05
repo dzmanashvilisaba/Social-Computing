@@ -22,4 +22,20 @@ In Lab4, it was practiced the concepts of sampling distribution step-by-step: gi
 | ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Lab4%20Distribution/res/histogram.png)    |  ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Lab4%20Distribution/res/sampling_dist.png) |
 | ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Lab4%20Distribution/res/conf.png)  | ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Lab4%20Distribution/res/kaist_postech.png)  |
 
- 
+
+
+
+
+## Project
+### Effects of Automatization on Jobs and Employment
+This project was to investigate the effects of technology development and automatization of skills on jobs and employment of people. For that purpose the following methodology was used:
+  1.  Collected and determined the global employemnt measures according to the industry sectors and general jobs (729 job names)
+  2.  Collected and determined the description of each job, and given to it necessary skills to execute those jobs
+  3.  Using Text Classifier (Online) determined how much of these jobs need those particular skills (percentage %)
+  4.  Using past 30 years of data used ARIMA prediciton model to forecast following 10 yeears of data.
+  5.  Given estimated possible employment measure in 10 years, and possible automatability of each jobs, adding few more assumptions, the percent of automated jobs was estimated
+
+|        |      |
+| -------------- | -------------- |
+| ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Project/FORECAST%20ARIMA.jpeg)    |  ![](https://github.com/dzmanashvilisaba/Social-Computing/blob/main/Project/data2.jpg) |
+
