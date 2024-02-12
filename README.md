@@ -1,7 +1,7 @@
 # Social-Computing
 
 ## Lab 2
-In Lab2, it was practiced the concepts of text analytics, and sentimental analysis. As the text it was used the abstracts from sociology journals indexed in KCI (Korea Citation Index). 
+In Lab2, it was practiced the concepts of text and sentimental analysis. The text used was the abstracts from sociology journals indexed in KCI (Korea Citation Index). 
 
 |        |      |
 | -------------- | -------------- |
@@ -12,10 +12,10 @@ In Lab2, it was practiced the concepts of text analytics, and sentimental analys
 
 
 ## Lab 4
-In Lab4, it was practiced the concepts of sampling distribution step-by-step: given population size, 10k, of KAIST students and their height measures (theoritical values) it is estimated:
-  1.  The distribution of a histogram of population and its form
-  2.  The mean and standartand diviation of sampling and population distribution, and difference between those two
-  3.  Difference measure between POSTECH student's data
+In Lab4, it was practiced the concepts of sampling distribution: given population size, 10k, of KAIST students and their height measures (theoritical values) it is estimated:
+  1.  The distribution of a histogram of data and form of distribution.
+  2.  The mean and standartand diviation of sampling and population distribution.
+  3.  Difference measure between KAIST and POSTECH student's data.
 
 |        |      |
 | -------------- | -------------- |
@@ -28,12 +28,12 @@ In Lab4, it was practiced the concepts of sampling distribution step-by-step: gi
 
 ## Project
 ### Effects of Automatization on Jobs and Employment
-This project was to investigate the effects of technology development and automatization of skills on jobs and employment of people. For that purpose the following methodology was used:
+This project was to investigate the effects of technology development and automatization on jobs and employment of people. For that purpose the following methodology was used:
   1.  Collected and determined the global employemnt measures according to the industry sectors and general jobs (729 job names)
-  2.  Collected and determined the description of each job, and given to it necessary skills to execute those jobs
-  3.  Using Text Classifier (Online) determined how much of these jobs need those particular skills (percentage %)
-  4.  Using past 30 years of data used ARIMA prediciton model to forecast following 10 yeears of data.
-  5.  Given estimated possible employment measure in 10 years, and possible automatability of each jobs, adding few more assumptions, the percent of automated jobs was estimated
+  2.  Collected and determined the description of each job, and characterized each by ceartain skills to execute those jobs
+  3.  Using Text Classifier (Online) determined the degree of involvment of those particular skills in these jobs percentagewise
+  4.  Used past 30 years of data of employment and ARIMA prediciton model to forecast following 10 yeears of employment data industrywise and jobwise.
+  5.  Given estimated possible employment measure in 10 years, and possible automatability of each jobs, additionally including few more assumptions, the percent of automated jobs was estimated
 
 |        |      |
 | -------------- | -------------- |
